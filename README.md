@@ -1,0 +1,1 @@
+# game_model_niezdam.pl
